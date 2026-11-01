@@ -1,0 +1,1 @@
+{"code":200,"message":"OK","tweet":{"url":"https://x.com/example_bob/status/101","id":"101","text":"@example_alice 返信です","author":{"screen_name":"example_bob","name":"Bob"},"created_timestamp":1767574800,"replying_to":"example_alice","replying_to_status":"100"}}

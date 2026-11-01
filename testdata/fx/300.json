@@ -1,0 +1,1 @@
+{"code":200,"message":"OK","tweet":{"url":"https://x.com/example_alice/status/300","id":"300","text":"循環A","author":{"screen_name":"example_alice","name":"Alice"},"created_timestamp":1767578400,"replying_to":"example_bob","replying_to_status":"301"}}
