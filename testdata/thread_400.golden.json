@@ -1,0 +1,67 @@
+{
+  "post": {
+    "id": "400",
+    "url": "https://x.com/example_alice/status/400",
+    "created_at": "2026-01-05T02:00:00Z",
+    "author": {
+      "name": "Alice",
+      "screen_name": "example_alice"
+    },
+    "article": {
+      "title": "記事の題",
+      "cover_image_url": "https://pbs.twimg.com/media/cover.jpg",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "大見出し"
+        },
+        {
+          "type": "paragraph",
+          "text": "段落1\n2行目"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "中見出し"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/body1.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/body2.jpg"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "post",
+          "post_id": "90"
+        },
+        {
+          "type": "code",
+          "text": "go test ./..."
+        },
+        {
+          "type": "quote",
+          "text": "引用の段落"
+        },
+        {
+          "type": "list_item",
+          "text": "項目A"
+        },
+        {
+          "type": "ordered_list_item",
+          "text": "手順1"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "小見出し"
+        }
+      ]
+    }
+  }
+}
